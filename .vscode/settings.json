@@ -1,0 +1,8 @@
+{
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true,
+    "python.autoComplete.extraPaths": [
+        "c:\\Users\\Nathan Wyatt\\.vscode\\extensions\\stefanwehr.write-your-python-program-0.17.1\\python\\src\\"
+    ],
+    "python.linting.enabled": false
+}
